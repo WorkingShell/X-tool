@@ -16,7 +16,7 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
     //NSLog(@"Insert code here to initialize your application");
-    NSString *str = @"1";
+    NSString *str = @"aaaa";
 }
 
 @end
